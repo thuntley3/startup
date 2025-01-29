@@ -1,0 +1,5 @@
+- used github to create a repo, clone, and create a personal access token
+- "git fetch" gets the latest information about the changes on GitHub without changing local repository
+- "git status" you can see the differences between the clones
+- "git pull" syncs the repository
+- commit and push changes after you test
