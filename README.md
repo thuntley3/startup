@@ -39,3 +39,14 @@ I am going to use the required technologies in the following ways:
   - Getting progress history 
 - **DB/Login** - Store users, workout logs (exercise, weight, reps) in database. Register and login users. User credentials securely stored in the database.
 - **WebSocket** - Instant updates to charts when new data is logged and is shown to other users if permitted.
+
+## HTML deliverable
+
+For this deliverable I built out the structure of my application using HTML.
+
+- **HTML pages** - Two HTML page that will let you login and get information from the dashboard.
+- **Links** - The login and dashboard page both have links to each other to navigate the site. Also included a link to my GitHub repo in the footers.
+- **Text** - Instructions to login are on the login page. Additionally, a lot of text was needed on the dashboard page to guide the user and provide necessary information.
+- **Images** - Included images to both pages' headers.
+- **DB/Login** - Input box and submit button for login. Input box and 'calculate' button for calculator. Added input box and dropdown for Personal Records that pulls data from the database. The voting choices represent data pulled from the database.
+- **WebSocket** - The leaderboard section shows real-time data from accounts
