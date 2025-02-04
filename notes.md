@@ -14,3 +14,6 @@
 * modified caddy file to allow for https through my domain and subdomains
 * completed codepens with HTML
 * Deployed simon to my domain under simon.thuntley.click by running the script by "./deployFiles.sh -k production.pem -h thuntley.click -s simon"
+* Added HTML pages with full fuctionality to startup
+* Added the deployment file
+* deployed the webpages to my website under the startup subdomain
