@@ -12,4 +12,5 @@
 * leased thuntley.click domain
 * setup AWS instance and created records for the server and domain
 * modified caddy file to allow for https through my domain and subdomains
-* completed codepen with HTML
+* completed codepens with HTML
+* Deployed simon to my domain under simon.thuntley.click by running the script by "./deployFiles.sh -k production.pem -h thuntley.click -s simon"
