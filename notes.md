@@ -3,3 +3,6 @@
 - "git status" you can see the differences between the clones
 - "git pull" syncs the repository
 - commit and push changes after you test
+- leased thuntley.click domain
+- setup AWS instance and created records for the server and domain
+- modified caddy file to allow for https through my domain and subdomains
