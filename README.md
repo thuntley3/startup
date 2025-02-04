@@ -40,7 +40,7 @@ I am going to use the required technologies in the following ways:
 - **DB/Login** - Store users, workout logs (exercise, weight, reps) in database. Register and login users. User credentials securely stored in the database.
 - **WebSocket** - Instant updates to charts when new data is logged and is shown to other users if permitted.
 
-## HTML deliverable
+### HTML deliverable
 
 For this deliverable I built out the structure of my application using HTML.
 
